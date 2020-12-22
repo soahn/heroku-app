@@ -1,0 +1,23 @@
+{
+  "name": "heroku-app",
+  "version": "1.0.0",
+  "description": "hi, there!\r hello world!\r 안녕하세요, 세번째 업데이트입니다.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soahn/heroku-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soahn/heroku-app/issues"
+  },
+  "homepage": "https://github.com/soahn/heroku-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
